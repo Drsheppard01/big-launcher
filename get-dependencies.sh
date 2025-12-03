@@ -18,6 +18,7 @@ pacman -Syu --noconfirm \
   spdlog \
   fmt \
   libxml2
+  big
 
 
 echo "Installing debloated packages..."
