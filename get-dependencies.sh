@@ -17,8 +17,8 @@ pacman -Syu --noconfirm \
   harfbuzz \
   spdlog \
   fmt \
-  libxml2
-  big
+  libxml2 \
+  big-launcher-git
 
 
 echo "Installing debloated packages..."
